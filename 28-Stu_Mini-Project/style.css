@@ -1,0 +1,12 @@
+h2 {
+    display:flex
+
+}
+nav {
+    text-align:center;
+    /* margin-right: 30% */
+}
+header {
+    text-align:center;
+    padding: 3px;
+}
